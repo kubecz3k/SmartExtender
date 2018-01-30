@@ -11,3 +11,4 @@ Here you can see how this plugin works in action: https://youtu.be/1IUD-neGurg
 
 Also keep in mind that while we are using this plugin and it should be well tested, we take no responsibility for potential damage casued by this code. You should always use Version control systems in your project.
 
+#This plugin is outdated, for 3.0 please download https://github.com/kubecz3k/KivanoEditorEnhancemens
